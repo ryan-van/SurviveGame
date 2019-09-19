@@ -2,7 +2,7 @@
 ## Main Idea
 Playable sinble-player game. Objective is to survive and find the exit, but first you must go on an adventure to find the hidden key! Dodge enemies and search the dungeon for food to survive and get out!
 Created a top-view, 2d platformer game using only Java and the Std Draw class from Princeton. Tile Engine and custom pictures used to represent moving characters.
-![Gameplay](https://github.com/ryan-van/SurviveGame/tree/master/images/gameplay.PNG)
+![Gameplay](/images/gameplay.PNG)
 
 ## Implementation Concepts
 ### Randomized Map
